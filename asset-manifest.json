@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Ipriyankrajai/to-do-list/static/css/main.a617e044.chunk.css",
-    "main.js": "/Ipriyankrajai/to-do-list/static/js/main.6c850ef2.chunk.js",
-    "main.js.map": "/Ipriyankrajai/to-do-list/static/js/main.6c850ef2.chunk.js.map",
+    "main.js": "/Ipriyankrajai/to-do-list/static/js/main.2c2a4b71.chunk.js",
+    "main.js.map": "/Ipriyankrajai/to-do-list/static/js/main.2c2a4b71.chunk.js.map",
     "runtime-main.js": "/Ipriyankrajai/to-do-list/static/js/runtime-main.3255eb17.js",
     "runtime-main.js.map": "/Ipriyankrajai/to-do-list/static/js/runtime-main.3255eb17.js.map",
-    "static/js/2.4d2a7a32.chunk.js": "/Ipriyankrajai/to-do-list/static/js/2.4d2a7a32.chunk.js",
-    "static/js/2.4d2a7a32.chunk.js.map": "/Ipriyankrajai/to-do-list/static/js/2.4d2a7a32.chunk.js.map",
+    "static/js/2.4f94700b.chunk.js": "/Ipriyankrajai/to-do-list/static/js/2.4f94700b.chunk.js",
+    "static/js/2.4f94700b.chunk.js.map": "/Ipriyankrajai/to-do-list/static/js/2.4f94700b.chunk.js.map",
     "static/js/3.e9d73ff4.chunk.js": "/Ipriyankrajai/to-do-list/static/js/3.e9d73ff4.chunk.js",
     "static/js/3.e9d73ff4.chunk.js.map": "/Ipriyankrajai/to-do-list/static/js/3.e9d73ff4.chunk.js.map",
     "index.html": "/Ipriyankrajai/to-do-list/index.html",
     "static/css/main.a617e044.chunk.css.map": "/Ipriyankrajai/to-do-list/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.4d2a7a32.chunk.js.LICENSE.txt": "/Ipriyankrajai/to-do-list/static/js/2.4d2a7a32.chunk.js.LICENSE.txt",
+    "static/js/2.4f94700b.chunk.js.LICENSE.txt": "/Ipriyankrajai/to-do-list/static/js/2.4f94700b.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Ipriyankrajai/to-do-list/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3255eb17.js",
-    "static/js/2.4d2a7a32.chunk.js",
+    "static/js/2.4f94700b.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.6c850ef2.chunk.js"
+    "static/js/main.2c2a4b71.chunk.js"
   ]
 }
